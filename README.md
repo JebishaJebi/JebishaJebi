@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @JebishaJebi
-- 👀 I’m interested in doing something
-- 🌱 I’m currently learning 
-
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hey I'm Jebisha 
 
 <!---
 JebishaJebi/JebishaJebi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
